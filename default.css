@@ -59,8 +59,8 @@
 	{
 		overflow: hidden;
 		margin: 0em auto;
-		/*width: 1200px;*/
-		width:	auto;
+		width: 1200px;
+		/*width:	72%;*/
 	}
 	
 /*********************************************************************************/
@@ -165,8 +165,8 @@
 	{
 		float: left;
 		position: relative;
-		/*width: 80px;*/
-		width: auto;
+		width: 80px;
+		/*width: auto;*/
 		height: 70px;
 		margin: 0.5em 1.5em 0em 0.5em;
 		padding: 1.5em 0em 1.5em 0em;
@@ -245,8 +245,8 @@
 	{
 		display: inline-block;
 		background: #3f3f3f;
-		/*width: 40px;*/
-		width: auto;
+		width: 40px;
+		/*width: auto;*/
 		height: 40px;
 		line-height: 40px;
 		border-radius: 20px;
@@ -281,8 +281,8 @@
 		display: inline-block;
 		background: #FFC31F;
 		margin-right: 1em;
-		/*width: 40px;*/
-		width: auto;
+		width: 40px;
+		/*width: auto;*/
 		height: 40px;
 		line-height: 40px;
 		border-radius: 20px;
@@ -299,8 +299,8 @@
 	.box3,
 	.box4
 	{
-		/*width: 235px;*/
-		width: auto;
+		width: 235px;
+		/*width: auto;*/
 	}
 	
 	.box1,
@@ -324,8 +324,8 @@
 	.boxB,
 	.boxC
 	{
-		/*width: 320px;*/
-		width: auto;
+		width: 320px;
+		/*width: auto;*/
 	}
 
 	.boxA,
@@ -347,8 +347,8 @@
 	.tbox1,
 	.tbox2
 	{
-		/*width: 575px;*/
-		width: auto;
+		width: 575px;
+		/*width: auto;*/
 	}
 	
 	.tbox1
@@ -393,8 +393,8 @@
 	{
 		position: relative;
 		float: left;
-		/*width: 300px;*/
-		width: auto;
+		width: 300px;
+		/*width: auto;*/
 		padding: 3em 0em;
 	}
 
@@ -487,8 +487,8 @@
 
 	#banner
 	{
-        /*width:400px;*/
-        width: auto;
+        width:400px;
+        /*width: auto;*/
         float:left;
         
 	}
